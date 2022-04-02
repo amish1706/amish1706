@@ -26,3 +26,18 @@
 ### :woman_technologist: About Me :
 
 I am a Deep Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m currently pursuing B.Tech. in Electronics and Communication Engineering from IIT Guwahati
+
+- :seedling: Learning Deep Learning and exploring Reinforcement Learning
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amish-agrawal/)
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+</div>
