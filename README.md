@@ -29,7 +29,7 @@ I am a Deep Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m currently pursuing B.Tech. in Electronics and Communication Engineering from IIT Guwahati
 
-- :seedling: Learning Deep Learning and exploring Reinforcement Learning
+- :seedling: Learning and Exploring Deep Learning
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amish-agrawal/)
 
